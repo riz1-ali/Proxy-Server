@@ -11,7 +11,7 @@ A multithreaded proxy server in python, implemented using threading and sockets.
 - [ICZN](www.iczn.org)
 
 ### To Run
-- Fix the port on your host to 20100.
+- Fix the port on your host to 20100 (server assumes to be on the port 20100 and reroutes requests through it).
 ```console
 user@linux:~/Proxy-Server$ python server.py
 ```
