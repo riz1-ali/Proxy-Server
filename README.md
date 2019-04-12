@@ -1,5 +1,5 @@
 # Proxy-Server
-A multithreaded proxy server in python, implemented using threading and sockets. Supoorts HTTP requests only.
+A multithreaded proxy server in python, implemented using threading and sockets. Supoorts HTTP websites only.
 
 ### Functionalities Covered
 - Multiple Clients can be routed through this server.
